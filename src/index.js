@@ -5,7 +5,8 @@ import CommentDetail from './CommentDetail';
 import ApprovalCard from './ApprovalCard';
 
 const App = () => {
-
+	// this code will be written on 23 Jan 2021.
+	// some other code.
 	return (
 		<div className="ui container comments">
 			<ApprovalCard>
